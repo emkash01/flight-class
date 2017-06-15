@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Trip()
+comment1.params=
+comment1.target=int\ getDuration()
+comment1.text=\r\n\ returns\ number\ of\ minutes\ from\ the\ departure\ of\ first\ flight\ to\ the\ arrival\ of\ \r\n\ the\ last\ flight\ if\ there\ are\ one\ or\ more\ flight\ in\ the\ trip;\r\n\ 0,\ if\ there\ are\ no\ flights\ in\ the\ trip.\r\n
+comment2.params=
+comment2.target=int\ getShortestLayover()
+comment2.text=\r\n\ returns\ the\ smallest\ number\ of\ minutes\ between\ the\ arrival\ of\ the\ flight\ and\r\n\ departure\ of\ the\ flight\ immediately\ after\ it\ if\ there\ are\ two\ or\ more\ flights\ in\ the\ trip;\r\n\ -1,\ if\ there\ are\ fewer\ than\ two\ flights\ in\ the\ trip.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
